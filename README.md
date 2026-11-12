@@ -1,6 +1,6 @@
 # appcraft.solutions
 
-The AppCraft Solutions website: company home, the VehicleVault features
+The AppCraft Solutions website: company home, the MotoWallet features
 page, its help guide and its privacy policy (the URL Play Console needs).
 
 Plain HTML and one stylesheet, with no build step. GitHub Pages serves the
@@ -31,7 +31,7 @@ http://localhost:8000.
   and update the "Last updated" date.
 - **Play link**: once the app is live, replace the "Coming soon on Google
   Play" button in `vehiclevault/index.html` with
-  `https://play.google.com/store/apps/details?id=solutions.appcraft.vehiclevault`.
+  `https://play.google.com/store/apps/details?id=solutions.appcraft.motovault`.
 
 ## Publish on GitHub Pages
 
